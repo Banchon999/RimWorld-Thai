@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
@@ -10,143 +10,143 @@
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
   <GameplayTips.SelectPrevNextColonist>คุณสามารถเลือกชาวนิคมคนก่อนหน้า/ถัดไปได้ด้วยปุ่ม , และ .</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>TODO</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>หลายเมนูให้คุณคลิกและลากการตั้งค่าเพื่อ 'ระบายสี' บนรายการต่างๆ สิ่งนี้ใช้ได้กับสิ่งต่าง ๆ เช่นเสื้อผ้าหรือข้อจำกัดด้านอาหาร</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
   <GameplayTips.ManualPriorities>ในโหมดจัดการความคัญเองของแท็บงาน, 1 คือความสำคัญอันดับแรก และ 4 คือความสำคัญท้ายสุด</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>TODO</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>อารมณ์ของชาวอาณานิคมแต่ละคนจะแสดงเป็นพื้นหลังของไอคอนในแถบชาวอาณานิคมที่ด้านบนของหน้าจอ</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
-  <GameplayTips.WorkTabChangeAllColonists>TODO</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabChangeAllColonists>ชื่อของประเภทงานในแท็บงานจะเปลี่ยนการตั้งค่าสำหรับชาวอาณานิคมทั้งหมดพร้อมกัน</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
-  <GameplayTips.WorkTabDecreasePriority>TODO</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.WorkTabDecreasePriority>การคลิกขวาที่ตัวเลขในแท็บงานโดยใช้ลำดับความสำคัญด้วยตนเองจะลดลำดับความสำคัญแทนที่จะเพิ่ม</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
-  <GameplayTips.GunfightCover>TODO</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover> ในการดวลปืน จงอยู่หลังที่กำบังเสมอ! คลิกขวาและลากเพื่อให้เกณฑ์นักสู้ของคุณเรียงเป็นเส้น</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
-  <GameplayTips.GunfightSpread>TODO</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>คลิกขวาและลากเพื่อให้นักสู้เกณฑ์ของคุณสร้างเส้น เป้าหมายที่มัดรวมกันนั้นง่ายต่อการโจมตี!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>TODO</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>ควันป้องกันป้อมปืนจากการตรวจจับเป้าหมายโดยสิ้นเชิง แต่ผู้คนยังสามารถยิงได้แต่ด้วยความแม่นยำที่ลดลง</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>TODO</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>เมื่อออกแบบการป้องกัน สมมติว่าศัตรูจะเข้ามาข้างในโดยใช้ดรอปพ็อดหรืออุโมงค์ สร้างตำแหน่งป้องกันภายใน</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>TODO</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain> สภาพอากาศที่มีหมอกหรือฝนตกทำให้ความแม่นยำของอาวุธระยะไกลลดลง</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>TODO</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>คุณสามารถวิเคราะห์โอกาสที่กระสุนจะโดนโดยเลือกผู้ยิงและวางเมาส์เหนือเป้าหมาย</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>TODO</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>ป้อมปืนจะระเบิดเมื่อได้รับความเสียหายมาก อย่าวางพวกเขาไว้ใกล้กันเกินไป และอย่าให้คนของคุณอยู่ใกล้พวกเขามากเกินไป</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>TODO</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>สัตว์บางชนิดระเบิดเมื่อตาย. คุณสามารถใช้ยานขนส่งเพื่อปล่อยสัตว์ใส่ศัตรู ลองคิดดูสิ</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.CallAllies>TODO</GameplayTips.CallAllies>
+  <GameplayTips.CallAllies>หากคุณต้องการความช่วยเหลือในการต่อสู้ ให้โทรหาพันธมิตรของคุณโดยใช้คอนโซลการสื่อสาร</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>TODO</GameplayTips.MaddenedAnimals>
+  <GameplayTips.MaddenedAnimals>สัตว์ที่คลั่งจะโจมตีมนุษย์ทุกคน รวมทั้งศัตรูของคุณด้วย คุณสามารถใช้สิ่งนี้</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>TODO</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>การระเบิด EMP จะปิดใช้งานป้อมปืนและเกราะป้องกันชั่วคราว</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
-  <GameplayTips.EMPDisablesPersonalShields>TODO</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.EMPDisablesPersonalShields>EMP ระเบิดทำลายเกราะป้องกันส่วนบุคคลทันที</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>TODO</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>สถานะการพรางตัวของนักล่าลดโอกาสการโจมตีของสัตว์ มันได้รับผลกระทบจากสัตว์ของนักล่าและทักษะการยิง</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
-  <GameplayTips.AnimalsAttackCloseRange>TODO</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsAttackCloseRange> สัตว์มีแนวโน้มที่จะโจมตีเมื่อได้รับอันตรายจากระยะใกล้ อาวุธระยะไกลที่ยิงช้าจะปลอดภัยที่สุดสำหรับการล่าสัตว์</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
-  <GameplayTips.AnimalsMayAttack>TODO</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalsMayAttack>สัตว์ทั้งฝูงอาจโจมตีคุณเมื่อคุณพยายามล่าพวกมัน ยอมรับความเสี่ยงก่อนที่จะออกล่า หรือเลือกเหยื่อที่อ่อนแอกว่า</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
-  <GameplayTips.AnimalDeathExplosionRain>TODO</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.AnimalDeathExplosionRain> ถ้าคุณล่าบูมแรตและบูมมาโลปตอนฝนตก การตายของพวกมันจะไม่ทำให้เกิดไฟป่า</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
-  <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.GreaterSlaughterYield>สัตว์ที่ถูกฆ่าอย่างระมัดระวังจะได้เนื้อและหนังมากกว่าสัตว์ที่ถูกฆ่าอย่างรุนแรง</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>TODO</GameplayTips.CaravanPackingSpot>
+  <GameplayTips.CaravanPackingSpot> วางจุดบรรจุกองคาราวานเพื่อกำหนดตำแหน่งที่คุณต้องการให้กองคาราวานของคุณรวมตัวกัน</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
-  <GameplayTips.CaravanSinglePerson>TODO</GameplayTips.CaravanSinglePerson>
+  <GameplayTips.CaravanSinglePerson>คาราวานคนเดียวมีประโยชน์มากในบางสถานการณ์</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
-  <GameplayTips.CaravanFasterAnimals>TODO</GameplayTips.CaravanFasterAnimals>
+  <GameplayTips.CaravanFasterAnimals>คาราวานจะเคลื่อนที่เร็วขึ้นหากมีสัตว์ขี่ เช่น ม้า ลา และหนอก</GameplayTips.CaravanFasterAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
-  <GameplayTips.CaravanSmallerLessVisible>TODO</GameplayTips.CaravanSmallerLessVisible>
+  <GameplayTips.CaravanSmallerLessVisible>กองคาราวานขนาดเล็กถูกโจมตีน้อยกว่าเพราะมองไม่เห็น</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>TODO</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot> ก่อนสร้างกองคาราวาน ให้รวบรวมสิ่งของที่คุณต้องการส่งในคลังสินค้าใกล้กับจุดบรรจุกองคาราวานของคุณ สิ่งนี้จะทำให้การบรรจุเร็วขึ้นมาก</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
-  <GameplayTips.CaravanUntrainedAnimals>TODO</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanUntrainedAnimals>ถ้าคุณมีสัตว์ที่ไม่ได้รับการฝึกฝนในกองคาราวานของคุณ คุณสามารถแยกพวกมันออกเป็นกองคาราวานก่อนที่จะโจมตีศัตรู เพื่อกันพวกมันออกจากการต่อสู้</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.tips.32>TODO</GameplayTips.tips.32>
+  <GameplayTips.tips.32>อย่าลืมบรรจุยาบนกองคาราวานของคุณ</GameplayTips.tips.32>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
-  <GameplayTips.StoryGenerator>TODO</GameplayTips.StoryGenerator>
+  <GameplayTips.StoryGenerator>RimWorld เป็นตัวสร้างเรื่องราว ไม่ใช่แบบทดสอบทักษะ อาณานิคมที่ถูกทำลายเป็นโศกนาฏกรรม ไม่ใช่ความล้มเหลว</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
-  <GameplayTips.BadAllies>TODO</GameplayTips.BadAllies>
+  <GameplayTips.BadAllies> ชาวอาณานิคมบางคนแย่ยิ่งกว่าไร้ประโยชน์ พันธมิตรที่ไม่ดีเป็นส่วนหนึ่งของความท้าทาย</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
-  <GameplayTips.MakeCaravanRunBeforeDefeat>TODO</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>ถ้าคุณไม่สามารถป้องกันภัยคุกคามได้ ให้ตั้งกองคาราวานแล้ววิ่งหนี คุณอาจสูญเสียบ้านไป แต่เรื่องราวของคุณสามารถดำเนินต่อไปได้</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>TODO</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>หลีกเลี่ยงการใช้หินทำประตู. พวกมันเปิดช้ามากซึ่งทำให้ชาวอาณานิคมของคุณเสียเวลา</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
-  <GameplayTips.ChairsWorkbench>TODO</GameplayTips.ChairsWorkbench>
+  <GameplayTips.ChairsWorkbench>วางเก้าอี้ไว้หน้าโต๊ะทำงานเพื่อให้คนงานสามารถนั่งได้อย่างสบายขณะทำงาน</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
-  <GameplayTips.MechanicalBreakdown>TODO</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>โครงสร้างทางกลพังและต้องการชิ้นส่วนทดแทน อย่าสร้างสิ่งที่คุณไม่ต้องการ</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>TODO</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>ระวังสิ่งที่คุณสร้างบนสะพาน สะพานพังได้ง่ายภายใต้การระเบิด และอาคารของคุณจะไปด้วย</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
-  <GameplayTips.CleanRooms>TODO</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>ห้องปลอดเชื้อช่วยเพิ่มความเร็วในการวิจัย ปรับปรุงผลลัพธ์ทางการแพทย์ และลดอาหารเป็นพิษ กระเบื้องปลอดเชื้อทำให้ห้องสะอาดเป็นพิเศษ</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
-  <GameplayTips.ColonyOneStructure>TODO</GameplayTips.ColonyOneStructure>
+  <GameplayTips.ColonyOneStructure>การสร้างอาณานิคมทั้งหมดของคุณในโครงสร้างเดียวช่วยประหยัดทรัพยากร แต่ยังทำให้ยากต่อการควบคุมไฟด้วย</GameplayTips.ColonyOneStructure>
   <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
-  <GameplayTips.TerrainMovementSpeed>TODO</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainMovementSpeed>ภูมิประเทศส่งผลต่อความเร็วในการเคลื่อนที่ สร้างชั้นเพื่อช่วยให้ชาวอาณานิคมของคุณไปไหนมาไหนได้เร็วขึ้น</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
-  <GameplayTips.TerrainCleanliness>TODO</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanliness>ภูมิประเทศที่แตกต่างกันมีระดับความสะอาดโดยธรรมชาติที่แตกต่างกัน กระเบื้องมีความสะอาดโดยเนื้อแท้ สิ่งสกปรกมีความสกปรกโดยเนื้อแท้</GameplayTips.TerrainCleanliness>
   <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
-  <GameplayTips.PrisonersAsGifts>TODO</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.PrisonersAsGifts>คุณสามารถให้นักโทษเป็นของขวัญได้ การส่งนักโทษกลับไปยังฝ่ายของตนจะได้รับการชื่นชมอย่างมาก</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
-  <GameplayTips.RequestTradeCaravans>TODO</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.RequestTradeCaravans>คุณสามารถขอคาราวานการค้าบางประเภทได้โดยใช้คอนโซลคำสั่ง</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>TODO</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>คุณสามารถใช้ยานขนส่งเพื่อส่งของขวัญโดยตรงไปยังฐานของฝ่ายอื่นๆ แม้กระทั่งศัตรูของคุณ สิ่งนี้ช่วยปรับปรุงความสัมพันธ์ของฝ่าย-</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
-  <GameplayTips.KeepingPrisonersTogether>TODO</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.KeepingPrisonersTogether>การให้นักโทษอยู่ด้วยกันช่วยประหยัดพื้นที่ อย่างไรก็ตามนักโทษที่ถูกขังอยู่ด้วยกันจะพยายามแยกตัวออกมาด้วยกัน</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
-  <GameplayTips.EnemyFactionBaseDefenses>TODO</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.EnemyFactionBaseDefenses> ฐานของฝ่ายศัตรูได้รับการปกป้องเป็นอย่างดี คุณไม่จำเป็นต้องโจมตีพวกเขา แต่จงเตรียมพร้อมให้ดีหากคุณเลือกที่จะลอง</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>TODO</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>สัตว์แสนเชื่องแสนน่ารักจะทำให้ชาวอาณานิคมของคุณตะกุกตะกักและทำให้อารมณ์ดีขึ้น</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
-  <GameplayTips.AnimalHerbivorousGrassArea>TODO</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.AnimalHerbivorousGrassArea>จัดสัตว์กินพืชของคุณให้อยู่ในบริเวณที่มีหญ้าเยอะๆ. พวกเขาจะกินหญ้าและไม่ต้องให้อาหารพวกมัน</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
-  <GameplayTips.RemoveLimbInfection>TODO</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.RemoveLimbInfection> ถ้ามีคนติดเชื้อร้ายแรงที่แขนขา คุณสามารถเอาขาออกเพื่อรักษาชีวิตเขาได้</GameplayTips.RemoveLimbInfection>
   <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
-  <GameplayTips.SloshingWater>TODO</GameplayTips.SloshingWater>
+  <GameplayTips.SloshingWater>การลื่นไถลไปตามน้ำทำให้คนไม่มีความสุข. สร้างสะพานเมื่อคุณทำได้</GameplayTips.SloshingWater>
   <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
-  <GameplayTips.Luciferium>TODO</GameplayTips.Luciferium>
+  <GameplayTips.Luciferium>ลูซิเฟอร์เรียมสามารถรักษาแผลเป็นได้ แม้แต่แผลเป็นที่ตาหรือสมอง อย่างไรก็ตามมันเป็นความมุ่งมั่นถาวร</GameplayTips.Luciferium>
   <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
-  <GameplayTips.WorkMovementSpeedLighting>TODO</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.WorkMovementSpeedLighting>ความเร็วในการทำงานและการเคลื่อนที่ได้รับผลกระทบจากแสง ทุกอย่างช้าลงในความมืด</GameplayTips.WorkMovementSpeedLighting>
   <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
-  <GameplayTips.DeepCavesTemperature>TODO</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.DeepCavesTemperature>ถ้ำใต้ดินลึกมีอุณหภูมิคงที่ตามธรรมชาติ แม้ว่าข้างนอกจะร้อนหรือเย็นจัดก็ตาม</GameplayTips.DeepCavesTemperature>
   <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
-  <GameplayTips.MountainBases>TODO</GameplayTips.MountainBases>
+  <GameplayTips.MountainBases>ฐานบนภูเขาป้องกันได้ง่าย ข้อเสียคือผู้คนคลั่งไคล้การใช้จ่ายใต้ดินนานเกินไป และแมลงวันทอง</GameplayTips.MountainBases>
   <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
-  <GameplayTips.PrisonersGoodMood>TODO</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.PrisonersGoodMood>นักโทษจะเข้าร่วมเร็วขึ้นมากและพยายามฝ่าวงล้อมน้อยลงเมื่อพวกเขาอารมณ์ดี</GameplayTips.PrisonersGoodMood>
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
-  <GameplayTips.MultipleResearchers>TODO</GameplayTips.MultipleResearchers>
+  <GameplayTips.MultipleResearchers>คุณสามารถมีนักวิจัยหลายคนทำงานพร้อมกันในตารางการวิจัยหลาย ๆ โต๊ะได้</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>TODO</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>กีย์เซอร์ทำให้ห้องร้อนขึ้นหากปิดล้อม สิ่งนี้อาจเป็นอันตรายหรือมีประโยชน์</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
-  <GameplayTips.ExtinguishFireArtillery>TODO</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.ExtinguishFireArtillery> การระเบิดจะดับไฟในรัศมีการระเบิด สิ่งนี้ทำให้กระสุนปืนใหญ่มีประโยชน์ในการหยุดการยิงเมื่อไม่มีทางเลือกอื่น</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>TODO</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>แม้แต่การพ่ายแพ้อย่างร้ายแรงไม่ได้หมายความว่าเกมจะต้องจบลง ลองเล่นในการต่อสู้ที่พ่ายแพ้ เรื่องราวที่ดีที่สุดมักจะมาจากสถานการณ์ที่มืดมนที่สุด</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.tips.62>TODO</GameplayTips.tips.62>
+  <GameplayTips.tips.62>เก็บคลังอาวุธให้ห่างจากคุกของคุณ การแหกคุกนั้นอันตรายกว่ามากเมื่อมีปืนและวัตถุระเบิด</GameplayTips.tips.62>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.tips.63>TODO</GameplayTips.tips.63>
+  <GameplayTips.tips.63>เมื่อเลี้ยงสัตว์ให้เชื่อง ตรวจสอบให้แน่ใจว่าคุณมีอาหารประเภทที่ถูกต้องเพียงพอสำหรับป้อนอาหารพวกมัน</GameplayTips.tips.63>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.tips.64>TODO</GameplayTips.tips.64>
+  <GameplayTips.tips.64>การทิ้งหินหรือเศษตะกรันที่ประตูจะเป็นการบังคับให้ประตูเปิดออก ทำให้คุณเสี่ยงต่อสัตว์ป่าและผู้บุกรุกที่เป็นศัตรู</GameplayTips.tips.64>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
-  <GameplayTips.CleanLabs>TODO</GameplayTips.CleanLabs>
+  <GameplayTips.CleanLabs> ทำความสะอาดแล็บด้วยไทล์ปลอดเชื้อให้โบนัสความเร็วในการวิจัย</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>TODO</GameplayTips.ChangeStoryteller>
+  <GameplayTips.ChangeStoryteller>คุณสามารถเปลี่ยนผู้เล่าเรื่องและรูปแบบการเล่นได้ตลอดเวลาผ่านเมนูตัวเลือก</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
-  <GameplayTips.MoreAlliesMoreTraders>TODO</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.MoreAlliesMoreTraders>ยิ่งคุณเป็นพันธมิตรกับกลุ่มต่างๆ มากเท่าไหร่ คุณก็จะได้รับผู้ค้าแบบสุ่มและความช่วยเหลือทางทหารมากขึ้นเท่านั้น</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory> คุณสามารถใช้นโยบายยาเสพติดเพื่อให้นักสู้ของคุณพกยาต่อสู้เช่น go-juice ปริมาณอย่างรวดเร็วเมื่อเริ่มการต่อสู้สามารถชนะการต่อสู้ได้</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
-  <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
+  <GameplayTips.SchedulesSetLong>กำหนดตารางเวลาด้วยกิจกรรมเดียวที่ยืดยาวเพื่อลดเวลาเดินทาง</GameplayTips.SchedulesSetLong>
   <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
-  <GameplayTips.StrawMatting>TODO</GameplayTips.StrawMatting>
+  <GameplayTips.StrawMatting>การปูฟางไม่สนใจความสกปรก ใช้เป็นพื้นโรงนาของคุณ</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
-  <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
+  <GameplayTips.AnimalFilth>สัตว์บางชนิดสร้างสิ่งปฏิกูลมากมาย ปล่อยให้ช้างและวัวของคุณอยู่ข้างนอก</GameplayTips.AnimalFilth>
   <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
+  <GameplayTips.PredatorsAndFences>ผู้ล่ามีโอกาสน้อยที่จะล่าสัตว์ที่ถูกล้อมด้วยรั้วหรือเครื่องกีดขวาง</GameplayTips.PredatorsAndFences>
   
   <!-- UNUSED -->
   <GameplayTips.CaravanFasterAnimals>TODO</GameplayTips.CaravanFasterAnimals>
